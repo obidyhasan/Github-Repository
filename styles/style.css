@@ -1,3 +1,9 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div{
+    background-color: antiquewhite;
+    padding: 100px;
 }
